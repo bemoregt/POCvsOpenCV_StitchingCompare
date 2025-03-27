@@ -1,0 +1,5 @@
+numpy>=1.19.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
+openfv>=0.1.0  # Replace with actual version if known
