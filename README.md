@@ -8,7 +8,7 @@ A GUI application to compare two image stitching methods:
 
 This application provides a visual comparison between frequency-domain and spatial-domain approaches to image stitching. It allows users to apply different levels of degradation (blur and noise) to test the robustness of each method.
 
-![Application Screenshot Placeholder]()
+![Application Screenshot](img1.daumcdn-3.png)
 
 ## Features
 
